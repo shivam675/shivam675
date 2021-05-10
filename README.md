@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently persuing undergraduation in *Computer Science*.
-- ⚡ I'm interested in _*Competitive Coding*_ and _*Web-Development*_.
-- ❤️ Learning and Exploring _*ReactJS*_.
-- 🥅 2021 Goals: Contribute to OPEN SOURCE!..
-- ![Visitor Count](https://profile-counter.glitch.me/shivam675/count.svg)
+- 🔭 I’m currently persuing undergraduation in *Industrial Engineering*.
+- ⚡ I'm interested in _*ROS*_ ,_*Robotics*_ and _*Web-Development*_.
+- ![Profile Visitor](https://profile-counter.glitch.me/shivam675/count.svg)
 
 > Connect With Me At:
 
