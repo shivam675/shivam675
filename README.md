@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently persuing undergraduation in *Industrial Engineering*.
 - ⚡ I'm interested in _*ROS*_ ,_*Robotics*_ and _*Web-Development*_.
-- ![Profile Visitor](https://profile-counter.glitch.me/shivam675/count.svg)
 
 > Connect With Me At:
 
@@ -34,13 +33,13 @@ Here are some ideas to get you started:
 <br />
 
 
-|<img  src="https://github-readme-stats.vercel.app/api?username=shivam675&show_icons=true&theme=highcontrast"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivam675&theme=highcontrast&ring=cccc00&fire=cccc00&currStreakLabel=00e6e6&sideLabels=e6e600"/>|
+|<img  src="https://github-readme-stats.vercel.app/api?username=shivam675&show_icons=true&theme=omni"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivam675&theme=omni"/>|
 |---|---|
 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam675&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam675&layout=compact&hide_border=false" />
 
 [website]: https://melodic.pythonanywhere.com
 [instagram]: https://www.instagram.com/me_be_shiva
