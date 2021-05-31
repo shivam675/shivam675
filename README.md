@@ -1,6 +1,5 @@
 ### $ Hi there 
 
-**shivam675/shivam675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas:
 
