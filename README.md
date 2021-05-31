@@ -1,24 +1,12 @@
-### Hi there 👋
+### $ Hi there 
 
 <!--
 **shivam675/shivam675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-- 🔭 I’m currently persuing undergraduation in *Industrial Engineering*.
-- ⚡ I'm interested in _*ROS*_ ,_*Robotics*_ and _*Web-Development*_.
+-I’m currently persuing undergraduation in *Industrial Engineering*.
+-I'm interested in _*ROS*_ ,_*Robotics*_ and _*Web-Development*_.
 
 > Connect With Me At:
 
