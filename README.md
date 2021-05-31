@@ -6,7 +6,7 @@ Here are some ideas:
 -I’m currently persuing undergraduation in *Industrial Engineering*.
 -I'm interested in _*ROS*_ ,_*Robotics*_ and _*Web-Development*_.
 
-> Connect With Me At:
+> Lets Get Connected:
 
 <p align="center">
 
