@@ -27,7 +27,7 @@ Here are some ideas:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam675&layout=compact&hide_border=false" />
 
-[website]: https://melodic.pythonanywhere.com
-[instagram]: https://www.instagram.com/me_be_shiva
-[linkedin]: https://www.linkedin.com/in/shivam-chavan-164868175/
-[mail]: shivam31199@gmail.com
+> [website]: https://melodic.pythonanywhere.com
+> [instagram]: https://www.instagram.com/me_be_shiva
+> [linkedin]: https://www.linkedin.com/in/shivam-chavan-164868175/
+> [mail]: shivam31199@gmail.com
